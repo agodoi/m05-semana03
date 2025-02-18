@@ -21,6 +21,10 @@ Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, 
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo1.gif" width="300">
 
+* Quando o positivo da bateria está conectado no positivo do diodo, dizemos que o diodo está polarizado diretamente e por isso, ele está conduzindo a corrente.
+
+* Quando o positivo da bateria está conectado no negativo do diodo, ele está polarizado reversamente e por isso, ele está conduzindo praticamente nada.
+
 
 ## Aplicações dos Diodos
 
@@ -28,13 +32,17 @@ Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, 
 * Proteção de circuitos;
 * Emissão de luz em LEDs.
 
-## **1.1 Condutores e Semicondutores**
+## Do que é feito o Diodo?
+
+**O diodo é feito de semicondutor**.
 
 Os materiais podem ser classificados em três categorias principais de acordo com sua capacidade de conduzir eletricidade:
 
-- **Condutores:** São materiais que permitem a livre movimentação dos elétrons, facilitando a condução elétrica. Exemplos comuns incluem **cobre, prata e alumínio**, amplamente utilizados em fios e trilhas de circuitos eletrônicos.
-- **Isolantes:** São materiais que **não permitem** a passagem de corrente elétrica facilmente, pois possuem poucos elétrons livres. Exemplos incluem **borracha, vidro e plástico**, usados como revestimentos protetores.
-- **Semicondutores:** Possuem uma condutividade intermediária entre condutores e isolantes. O **silício** e o **germânio** são os semicondutores mais utilizados na eletrônica, pois podem ser manipulados para conduzir eletricidade de maneira controlada.
+- **Condutores:** são materiais que permitem a livre movimentação dos elétrons, facilitando a condução elétrica. Exemplos comuns incluem **cobre, prata e alumínio**, amplamente utilizados em fios e trilhas de circuitos eletrônicos.
+
+- **Isolantes:** são materiais que **não permitem** a passagem de corrente elétrica facilmente, pois possuem poucos elétrons livres. Exemplos incluem **borracha, vidro e plástico**, usados como revestimentos protetores.
+
+- **Semicondutores:** possuem uma condutividade intermediária entre condutores e isolantes. O **silício** e o **germânio** são os semicondutores mais utilizados na eletrônica, pois podem ser manipulados para conduzir eletricidade de maneira controlada.
 
 A principal característica dos semicondutores é a capacidade de serem **dopados**, um processo no qual pequenas quantidades de impurezas são adicionadas para modificar suas propriedades elétricas. Esse processo possibilita a criação da **junção PN**, que é a base para o funcionamento dos diodos.
 
