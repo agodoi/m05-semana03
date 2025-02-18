@@ -15,7 +15,9 @@ A eletrônica moderna é construída com base em componentes semicondutores, sen
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/atlas1.png" width="300">
 
-Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, permitindo sua passagem em apenas uma direção e bloqueando-a na outra. 
+Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, permitindo sua passagem em apenas uma direção e bloqueando-a na outra.
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo3.png" width="300">
 
 ## Comportamento do Diodo
 
