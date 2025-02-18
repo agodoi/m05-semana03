@@ -26,12 +26,6 @@ Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, 
 * Quando o positivo da bateria está conectado no negativo do diodo, ele está polarizado reversamente e por isso, ele está conduzindo praticamente nada.
 
 
-## Aplicações dos Diodos
-
-* Circuitos de retificação de corrente alternada;
-* Proteção de circuitos;
-* Emissão de luz em LEDs.
-
 ## Do que é feito o Diodo?
 
 **O diodo é feito de semicondutor**.
@@ -44,31 +38,29 @@ Os materiais podem ser classificados em três categorias principais de acordo co
 
 - **Semicondutores:** possuem uma condutividade intermediária entre condutores e isolantes. O **silício** e o **germânio** são os semicondutores mais utilizados na eletrônica, pois podem ser manipulados para conduzir eletricidade de maneira controlada.
 
-A principal característica dos semicondutores é a capacidade de serem **dopados**, um processo no qual pequenas quantidades de impurezas são adicionadas para modificar suas propriedades elétricas. Esse processo possibilita a criação da **junção PN**, que é a base para o funcionamento dos diodos.
+A principal característica dos semicondutores é a capacidade de serem **dopados** no momento da fabricação.
+
+**Dopagem** é um processo no qual pequenas quantidades de impurezas são adicionadas para modificar suas propriedades elétricas. 
+
+Esse processo possibilita a criação da **junção PN**, que é a base para o funcionamento dos diodos.
 
 ## **1.2 Importância dos Diodos na Eletrônica**
 
 Os diodos são componentes semicondutores que possuem **dois terminais: anodo e catodo**. Seu principal comportamento é permitir a passagem de corrente elétrica quando polarizados diretamente e bloqueá-la quando polarizados reversamente. Essa propriedade os torna essenciais em várias aplicações, como:
 
-- **Retificação de corrente alternada:** Transformação de corrente alternada (CA) em corrente contínua (CC), essencial para fontes de alimentação.
-- **Proteção de circuitos:** Evitam danos causados por inversão de polaridade ou surtos de tensão.
-- **Chaveamento eletrônico:** Utilizados para controlar sinais em alta velocidade.
-- **Diodos emissores de luz (LEDs):** Dispositivos que convertem energia elétrica em luz visível.
-- **Regulação de tensão (Diodo Zener):** Mantêm tensões constantes em circuitos eletrônicos.
+- **Retificação de corrente alternada:** transformação de corrente alternada (CA) em corrente contínua (CC), essencial para fontes de alimentação.
+- **Proteção de circuitos:** evitam danos causados por inversão de polaridade ou surtos de tensão.
+- **Chaveamento eletrônico:** utilizados para controlar sinais em alta velocidade.
+- **Diodos emissores de luz (LEDs):** dispositivos que convertem energia elétrica em luz visível.
 
 ## **1.3 Aplicações Práticas**
 
-A eletrônica digital e analógica faz amplo uso dos diodos em circuitos essenciais, como:
+A eletrônica digital e analógica faz amplo uso dos diodos, como:
 
 - **Fontes de alimentação** para dispositivos eletrônicos.
 - **Carregadores de bateria** que impedem a corrente reversa.
 - **Sensores ópticos e fotodiodos** usados em câmeras e sistemas de automação.
 
-Ao longo desta apostila, exploraremos o funcionamento dos **diodos ideais e reais**, bem como suas diferenças práticas e suas aplicações no dia a dia da eletrônica.
-
----
-
-Se quiser, posso expandir ou formatar o conteúdo para PDF. 🚀
 
 ### **2. Materiais Condutores e Semicondutores**
    - Definição de condutividade elétrica
