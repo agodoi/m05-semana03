@@ -13,7 +13,7 @@
 
 A eletrônica moderna é construída com base em componentes semicondutores, sendo os **diodos** um dos dispositivos fundamentais em diversos circuitos.
 
-<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/atlas1.jpg" width="250">
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/atlas1.png" width="250">
 
 Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, permitindo sua passagem em apenas uma direção e bloqueando-a na outra. 
 
