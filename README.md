@@ -37,7 +37,8 @@ Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, 
 
 - **Semicondutores:** possuem uma condutividade intermediária entre condutores e isolantes. O **silício** e o **germânio** são os semicondutores mais utilizados na eletrônica, pois podem ser manipulados para conduzir eletricidade de maneira controlada. Resumindo: semicondutor possui mais ou menos elétrons livres na sua camada.
 
-<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/silicio.jpg" width="300">
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/atomos.jpg" width="400">
+
 
 A principal característica dos semicondutores é a capacidade de serem **dopados** no momento da fabricação.
 
