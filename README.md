@@ -146,52 +146,60 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo3.png" width="400">
 
 
-## Curva Característica do Diodo
+## Curva Característica do Diodo Real vs Real
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo4.png" width="600">
 
 
+## Parte Prática
+
+### 1) Configuração do Multímetro:
+
+* Ajustar o multímetro para o modo "Teste de Diodo" ou medição de tensão DC.
+* Medição do Diodo:
+*    Conectar as pontas de prova do multímetro nos terminais do diodo:
+*    Vermelho no ânodo e preto no cátodo (polarização direta).
+*    Preto no ânodo e vermelho no cátodo (polarização reversa).
+
+### Responda:
+
+* (a) O que aconteceu com o valor da tensão na polarização direta?
+* (b) O que aconteceu com o valor da tensão na polarização reserva?
+* (c) O que aconteceu com o sinal sonoro na polarização direta?
+* (d) O que aconteceu com o sinal sonoro na polarização reserva?
+
+### 2) Configuração do Gerador de Sinais e Osciloscópio
+
+* Conectar um resistor de 1 kΩ em série com o diodo.
+* Conectar a saída do gerador de sinais (sinal senoidal de 1Vpp a 5Vpp) na entrada do circuito.
+* Ligar a outra extremidade do circuito à referência do gerador de sinais.
+* Ajustar o gerador de sinais para uma onda senoidal com frequência de 1 kHz e amplitude ajustável de 0V a 5V.
+* Conectar o Canal 1 do osciloscópio → Entrada do circuito (tensão aplicada).
+* Conectar o Canal 2 do osciloscópio → Saída do circuito (tensão no diodo).
+* Ajustar a escala do osciloscópio para visualizar as formas de onda.
+* Aumentar gradualmente a amplitude da tensão de entrada e observar a forma de onda no diodo.
+
+### Responda:
 
 
-### **2. Materiais Condutores e Semicondutores**
-   - Definição de condutividade elétrica
-   - Exemplos de materiais condutores (cobre, prata, alumínio)
-   - Estrutura atômica dos semicondutores (Silício, Germânio)
-   - Bandas de energia: Banda de Valência e Banda de Condução
-   - Dopagem de semicondutores (tipo N e tipo P)
-   - Junção PN e formação da barreira de potencial
+Para tensões abaixo de 0,7V, a saída mostra que o diodo não conduz.
+Para tensões acima de 0,7V, o diodo conduz e a saída exibe uma onda recortada, pois o diodo corta a parte negativa da onda.
+Em polarização reversa, a corrente é quase nula.
+Discussão
+Explicar a não-linearidade do diodo.
+Comparar com a curva ideal e analisar o comportamento real.
+Mostrar que a corrente só começa a fluir após atingir a tensão limiar.
+🔹 4. Experimento 3: Retificação com o Diodo Real (15 min)
+Agora, aplicaremos o diodo em um circuito retificador de meia onda para demonstrar como ele converte corrente alternada em corrente contínua.
 
-### **3. Diodo Ideal**
-   - Conceito teórico do diodo ideal
-   - Características ideais (zero resistência direta, resistência infinita na polarização reversa)
-   - Modelo gráfico da curva característica
+Montagem do Circuito
+Conectar um resistor de carga de 1 kΩ em paralelo ao diodo.
+Ligar o gerador de sinais com onda senoidal de 5Vpp e 60 Hz como fonte CA.
+Configuração do Osciloscópio:
+Canal 1 → Entrada da CA.
+Canal 2 → Tensão de saída no resistor de carga.
+Análise dos Resultados
+No osciloscópio, a forma de onda na saída será somente a parte positiva da entrada, pois o diodo bloqueia a parte negativa.
+A tensão máxima será reduzida pela queda de tensão do diodo (0,7V).
+Com um capacitor de filtragem (opcional), é possível suavizar a saída para obter um sinal mais próximo de uma tensão CC pura.
 
-### **4. Diodo Real**
-   - Diferenças entre diodo ideal e real
-   - Tensão de limiar (0,7V para silício e 0,3V para germânio)
-   - Corrente de fuga em polarização reversa
-   - Resistência dinâmica direta e zona de avalanche
-   - Parâmetros elétricos: IF (corrente direta), VR (tensão reversa máxima), PIV (Peak Inverse Voltage)
-
-### **5. Aplicações Práticas dos Diodos**
-   - Retificação de corrente alternada (meia onda e onda completa)
-   - Proteção contra inversão de polaridade
-   - Circuitos de chaveamento rápido
-   - Diodo Zener como regulador de tensão
-   - Fotodiodo e diodo emissor de luz (LED)
-
-### **6. Experimentos Práticos**
-   - Medição de diodos com multímetro
-   - Construção de um retificador de meia onda
-   - Simulação de curva característica no software LTSpice ou Proteus
-
-### **7. Conclusão**
-   - Importância dos diodos na eletrônica moderna
-   - Comparação entre diodo ideal e real na prática
-
-### **8. Exercícios e Questões**
-   - Questões teóricas sobre comportamento dos diodos
-   - Cálculo de tensões e correntes em circuitos com diodos
-   - Análise de gráficos de curva característica
-
-Se precisar de mais detalhes ou quiser uma versão formatada em PDF, posso estruturar o material para você! 🚀
