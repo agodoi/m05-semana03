@@ -107,11 +107,11 @@ A diferença de potencial criada entre as regiões P e N é conhecida como **ten
 Essa barreira impede o fluxo espontâneo de corrente elétrica quando não há uma fonte externa de energia aplicada.
 
 
-## **3. Polarização da Junção PN**
+## 3. Polarização da Junção PN
 
 A junção PN pode ser polarizada de duas formas distintas: **polarização direta** e **polarização reversa**.
 
-### **3.1 Polarização Direta (Forward Bias)**
+### 3.1 Polarização Direta
 Quando aplicamos uma **tensão externa positiva** no terminal P e **negativa** no terminal N, a barreira de potencial é reduzida, permitindo o fluxo de corrente elétrica.
 
 - O potencial positivo empurra as lacunas da **região P** em direção à junção.
@@ -122,7 +122,7 @@ Quando aplicamos uma **tensão externa positiva** no terminal P e **negativa** n
 - O diodo conduz corrente elétrica.
 - A resistência da junção PN diminui significativamente.
 
-### **3.2 Polarização Reversa (Reverse Bias)**
+### 3.2 Polarização Reversa
 Quando aplicamos uma **tensão externa negativa** no terminal P e **positiva** no terminal N, a barreira de potencial **aumenta**, dificultando a passagem da corrente elétrica.
 
 - O potencial positivo na **região N** atrai mais elétrons para longe da junção.
@@ -135,7 +135,10 @@ Quando aplicamos uma **tensão externa negativa** no terminal P e **positiva** n
 
 Se a tensão reversa for aumentada além do limite máximo do componente, ocorre a **avalanche** ou **ruptura** do diodo, levando à condução reversa intensa e, em alguns casos, à destruição do componente.
 
----
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/test_you_luck.png" width="400">
+
+
+
 
 ## **4. Aplicações da Junção PN**
 A junção PN tem aplicações em diversos dispositivos semicondutores:
