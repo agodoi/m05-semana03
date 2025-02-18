@@ -139,7 +139,7 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/test_your_luck.jpg" width="400">
 
-
+### Qual lâmpada do circuito abaixo vai acender?
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo3.png" width="400">
 
