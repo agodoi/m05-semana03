@@ -148,7 +148,7 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 
 ## Curva Característica do Diodo
 
-<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo4.png" width="300">
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo4.png" width="600">
 
 
 
