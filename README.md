@@ -17,8 +17,16 @@ A eletrônica moderna é construída com base em componentes semicondutores, sen
 
 Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, permitindo sua passagem em apenas uma direção e bloqueando-a na outra. 
 
+## Comportamento do Diodo
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo1.gif" width="250">
+
+
 ## Aplicações dos Diodos
-Essa propriedade os torna indispensáveis em aplicações como retificação de corrente alternada, proteção de circuitos e até mesmo na emissão de luz em LEDs.
+
+* Circuitos de retificação de corrente alternada;
+* Proteção de circuitos;
+* Emissão de luz em LEDs.
 
 ## **1.1 Condutores e Semicondutores**
 
