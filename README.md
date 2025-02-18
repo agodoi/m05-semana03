@@ -98,7 +98,7 @@ Quando um semicondutor tipo P é colocado em contato com um semicondutor tipo N,
 - Como resultado da migração inicial de cargas, a região próxima à interface na **região N** fica **carregada positivamente** (pois perdeu elétrons), e a região próxima na **região P** fica **carregada negativamente** (pois perdeu lacunas, ou seja, ganhou elétrons).
 - Essa separação de cargas gera um **campo elétrico interno** que impede a difusão contínua de elétrons e lacunas.
 
-<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/camnada_deplecao.png" width="400">
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/camnada_deplecao.jpg" width="400">
 
 A diferença de potencial criada entre as regiões P e N é conhecida como **tensão de barreira**, que é aproximadamente:
 - **0,7V para semicondutores de silício (Si)**
