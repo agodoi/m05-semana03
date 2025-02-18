@@ -135,8 +135,13 @@ Quando aplicamos uma **tensão externa negativa** no terminal P e **positiva** n
 
 Se a tensão reversa for aumentada além do limite máximo do componente, ocorre a **avalanche** ou **ruptura** do diodo, levando à condução reversa intensa e, em alguns casos, à destruição do componente.
 
+## Sabe a resposta?
+
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/test_your_luck.jpg" width="400">
 
+
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo3.png" width="400">
 
 
 
