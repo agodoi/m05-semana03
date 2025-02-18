@@ -146,25 +146,9 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo3.png" width="400">
 
 
+## Curva Característica do Diodo
 
-## **4. Aplicações da Junção PN**
-A junção PN tem aplicações em diversos dispositivos semicondutores:
-
-1. **Diodo retificador:** Permite a conversão de corrente alternada em corrente contínua.
-2. **Diodo Zener:** Opera em polarização reversa para regular tensões.
-3. **LED (Diodo Emissor de Luz):** Converte energia elétrica em luz através da recombinação de elétrons e lacunas.
-4. **Transistores (BJT e FET):** Utilizam múltiplas junções PN para amplificação e chaveamento de sinais.
-5. **Fotodiodos:** Sensores ópticos que detectam luz e convertem em corrente elétrica.
-
----
-
-## **Conclusão**
-A **junção PN** é um dos conceitos mais importantes da eletrônica moderna, permitindo o desenvolvimento de componentes semicondutores essenciais para a tecnologia. Seu funcionamento baseia-se na **formação da camada de depleção** e no **controle do fluxo de corrente elétrica**, dependendo da polarização aplicada. A capacidade de manipular a condução elétrica com precisão fez dos semicondutores a base da computação, telecomunicações, sistemas embarcados e Internet das Coisas (IoT).
-
----
-
-Esse texto está bem detalhado e técnico. Caso precise de ilustrações ou de uma formatação específica para uma apostila em PDF, posso estruturar isso para você! 🚀
-
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo4.png" width="300">
 
 
 
