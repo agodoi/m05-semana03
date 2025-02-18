@@ -30,13 +30,14 @@ Eles desempenham um papel essencial no controle do fluxo de corrente elétrica, 
 
 **O diodo é feito de semicondutor**.
 
-Os materiais podem ser classificados em três categorias principais de acordo com sua capacidade de conduzir eletricidade:
 
-- **Condutores:** são materiais que permitem a livre movimentação dos elétrons, facilitando a condução elétrica. Exemplos comuns incluem **cobre, prata e alumínio**, amplamente utilizados em fios e trilhas de circuitos eletrônicos.
+- **Condutores:** são materiais que permitem a livre movimentação dos elétrons, facilitando a condução elétrica. Exemplos comuns incluem **cobre, prata e alumínio**, amplamente utilizados em fios e trilhas de circuitos eletrônicos. Resumindo: condutor é que possui elétrons livres na sua camada de valência.
 
-- **Isolantes:** são materiais que **não permitem** a passagem de corrente elétrica facilmente, pois possuem poucos elétrons livres. Exemplos incluem **borracha, vidro e plástico**, usados como revestimentos protetores.
+- **Isolantes:** são materiais que **não permitem** a passagem de corrente elétrica facilmente, pois possuem poucos elétrons livres. Exemplos incluem **borracha, vidro e plástico**, usados como revestimentos protetores. Resumindo: isolante mal possui elétrons livres na sua camada de valência.
 
-- **Semicondutores:** possuem uma condutividade intermediária entre condutores e isolantes. O **silício** e o **germânio** são os semicondutores mais utilizados na eletrônica, pois podem ser manipulados para conduzir eletricidade de maneira controlada.
+- **Semicondutores:** possuem uma condutividade intermediária entre condutores e isolantes. O **silício** e o **germânio** são os semicondutores mais utilizados na eletrônica, pois podem ser manipulados para conduzir eletricidade de maneira controlada. Resumindo: semicondutor possui mais ou menos elétrons livres na sua camada.
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/silicio.jpg" width="300">
 
 A principal característica dos semicondutores é a capacidade de serem **dopados** no momento da fabricação.
 
