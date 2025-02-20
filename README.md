@@ -232,6 +232,19 @@ No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 ca
 
 (g) Volte o valor de AMPL para o máximo, e vamos analisar o comportamento de retificação do D. Compare na sua tela do oscilas, o sinal senoidal original e o retificado, tentando colocar os dois sinais um sobre o outro na sua tela, mexendo no botão **POSITION VERTICAL**. Consegue verificar que metade da onda não está presente no **R**?
 
+## Prática (5) - Medindo corrente elétrica
+
+Nessa aula, vamos confirmar na prática, como se mede corrente elétrica de um circuito.
+
+### LEMBRE-SE QUE ESSA MEDIÇÃO PODE QUEIMAR O MULTÍMETRO SE NÃO FEITO CORRETAMENTE!!! Mas não tenha medo...
+
+
+* Meça a corrente total do circuito retificador meia onda.
+
+Responda:
+
+(a) A corrente que passa pelo **D** é igual a que passa no **R**?
+(b) Vamos conferir se a corrente está dentro dos limites especificados no datasheet do Diodo 1N4007. Acesse esse site [ALL DATASHEET](https://www.alldatasheet.com/) e busque o PDF do 1N4007, faça o download, e busque pelo valor **Average Rectified Output Current**. Esse é o valor máximo de Itotal que o D suporta na polarização direta.
 # RETIFICADOR DE ONDA COMPLETA
 
 É muito importante vocÊ entender o comportamento das correntes do circuito abaixo para dominar o funcionamento das fontes de qualquer dispositivo eletrônico.
