@@ -170,6 +170,7 @@ Os botões mais usados:
 
 Siga as orientações do professor para fazer a sua primeira medição no oscilas.
 
+
 ## Prática (2) - Dominando o Gerador de Sinais
 
 Esse equipamento serve para você gerar sinais senoidais, onda quadrada e onda triangular, com diversas frequências e amplitudes.
@@ -203,14 +204,8 @@ Os botões mais usados são todos :)
 * (c) O que aconteceu com o sinal sonoro na polarização direta?
 * (d) O que aconteceu com o sinal sonoro na polarização reserva?
 
-## Prática (2) - Teste de Retificação do Diodo
+## Prática (4) - Teste de Retificação do Diodo
 
-
-Na sua bancada tem 3 equipamentos.
-
- * Osciloscópio (que parece uma pequena TV)
- * Gerador de Sinais (com garras vermelha e preta)
- * Multímetro de bancada (com pontas de prova vermelha e pretra)
 
 Monte o circuito abaixo usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k ohms e um protoboard pequeno.
 
@@ -230,6 +225,13 @@ No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 ca
 
 (d) Agora, comprove matematicamente os valores que você mediu.
 
-(e) Diminua o valor de AMPL do gerador de sinais para abaixo de 0,7V~ (use o multímetro de bancada para conferir o valor).
+(e) Diminua o valor de **AMPL** do gerador de sinais para abaixo de 0,7V~ (use o multímetro de bancada para conferir o valor).
 
 (f) Repita as medições de (c) e (d). O que você conclui?
+
+(g) Volte o valor de AMPL para o máximo, e vamos analisar o comportamento de retificação do D. Compare na sua tela do oscilas, o sinal senoidal original e o retificado, tentando colocar os dois sinais um sobre o outro na sua tela, mexendo no botão **POSITION VERTICAL**. Consegue verificar que metade da onda não está presente no **R**?
+
+# PRÁTICA (5) - RETIFICADOR DE ONDA COMPLETA
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/retificador-onda-completa.jpg" width="600">
+
