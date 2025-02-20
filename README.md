@@ -151,11 +151,11 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo4.png" width="600">
 
 
-## Parte Prática
+## Prática (1) - Teste de Condutividade do Diodo
 
 ### 1) Configuração do Multímetro:
 
-* Ajustar o multímetro para o modo "Teste de Diodo" ou medição de tensão DC.
+* Ajustar o multímetro para o modo "Teste de Diodo" ou medição de tensão DC. Quando você está na escala de Diodo, o resultado na tela é sempre Volts.
 * Medição do Diodo:
 *    Conectar as pontas de prova do multímetro nos terminais do diodo:
 *    Vermelho no ânodo e preto no cátodo (polarização direta).
@@ -168,16 +168,11 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 * (c) O que aconteceu com o sinal sonoro na polarização direta?
 * (d) O que aconteceu com o sinal sonoro na polarização reserva?
 
-### 2) Configuração do Gerador de Sinais e Osciloscópio
+## Prática (2) - Teste de Retificação do Diodo
 
-* Conectar um resistor de 1 kΩ em série com o diodo.
-* Conectar a saída do gerador de sinais (sinal senoidal de 1Vpp a 5Vpp) na entrada do circuito.
-* Ligar a outra extremidade do circuito à referência do gerador de sinais.
-* Ajustar o gerador de sinais para uma onda senoidal com frequência de 1 kHz e amplitude ajustável de 0V a 5V.
-* Conectar o Canal 1 do osciloscópio → Entrada do circuito (tensão aplicada).
-* Conectar o Canal 2 do osciloscópio → Saída do circuito (tensão no diodo).
-* Ajustar a escala do osciloscópio para visualizar as formas de onda.
-* Aumentar gradualmente a amplitude da tensão de entrada e observar a forma de onda no diodo.
+Monte o circuito abaixo e faça as medições solicitadas.
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/oscilas-01.png" width="600">
 
 ### Responda:
 
