@@ -232,7 +232,9 @@ No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 ca
 
 (g) Volte o valor de AMPL para o máximo, e vamos analisar o comportamento de retificação do D. Compare na sua tela do oscilas, o sinal senoidal original e o retificado, tentando colocar os dois sinais um sobre o outro na sua tela, mexendo no botão **POSITION VERTICAL**. Consegue verificar que metade da onda não está presente no **R**?
 
-# PRÁTICA (5) - RETIFICADOR DE ONDA COMPLETA
+# RETIFICADOR DE ONDA COMPLETA
+
+É muito importante vocÊ entender o comportamento das correntes do circuito abaixo para dominar o funcionamento das fontes de qualquer dispositivo eletrônico.
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/retificador-onda-completa.jpg" width="600">
 
