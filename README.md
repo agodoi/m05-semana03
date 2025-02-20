@@ -213,6 +213,7 @@ Monte o circuito abaixo usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k oh
 
 No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 canais **CH1** e **CH2** no mesmo osciloscópio.
 
+[Simulação disponível aqui](https://www.tinkercad.com/things/9RGCbPlLCHo-swanky-uusam/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=vf-AVNbVSZOR9WH4_qO6Z_5lJVH93FmJYmTr0_vttfM)
 
 ### Responda:
 
