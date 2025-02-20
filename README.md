@@ -151,7 +151,42 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/diodo4.png" width="600">
 
 
-## Prática (1) - Teste de Condutividade do Diodo
+
+
+
+## Prática (1) - Dominando o Oscilocópio
+
+O Oscila server para você analisar sinais no domínio do tempo. Sua tela é organizada em X e Y, sendo X o eixo dos tempos, em Y o eixo de Volts.
+
+Os botões mais usados:
+
+* **AUTO** serve para ajustar o sinal automaticamente no centro da tela
+* **CH1** serve para habilitar/desabilitar o canal 1. Você pode ligar/desligar o canal 1 pressionando esse botão por 1 ou 2s
+* **CH2** serve para habilitar/desabilitar o canal 2.
+* **F1** serve para habilitar/desabilitar o tipo de acomplamento do sinal. DC serve para ler sinais contínuos, AC serve para ler sinais contínuos e alternados, GND serve para aterrar o sinal de entrada. Você faz isso calibrar o sinal no meio da tela manualmente
+* **SET TO ZERO** serve para centrar os sinais no meio da tela de forma automática
+* **SCALE VOLTS** serve para configurar quanto vale 1 quadradinho da tela no eixo vertical
+* **SCALE SEC** serve para configurar quanto vale 1 quadradinho da tela no eixo horizontal
+
+Siga as orientações do professor para fazer a sua primeira medição no oscilas.
+
+## Prática (2) - Dominando o Gerador de Sinais
+
+Esse equipamento serve para você gerar sinais senoidais, onda quadrada e onda triangular, com diversas frequências e amplitudes.
+
+Os botões mais usados são todos :)
+
+* **RANGE (Hz)/GATE** server para você escolher a frequência do sinal de saída. Exemplo: selecionando **X2k** você vai ter frequência de **0 até 2kHz**. Se pressionar **X20k**, você terá de **0 até 20k Hz**
+* **FUNCTION**, você escolhe o tipo de sinal. Os possíveis são: senoidal, quadrado e triangular.
+* **ATT**, você aplica uma redução do sinal de saíde de 20dB ou 40dB
+* **FREQUENCY**, você ajusta a frequência do sinal
+* **AMPL**, você ajusta a amplitude do sinal. Esse gerador libera de 0 até 10.9Vp ou 21,8Vpp
+
+
+
+## Prática (3) - Teste de Condutividade do Diodo
+
+## Nessa aula prática, vamos montar um relatório organizado e registrar os valores medidos e calculados
 
 ### 1) Configuração do Multímetro:
 
@@ -170,31 +205,31 @@ Se a tensão reversa for aumentada além do limite máximo do componente, ocorre
 
 ## Prática (2) - Teste de Retificação do Diodo
 
-Monte o circuito abaixo e faça as medições solicitadas.
+
+Na sua bancada tem 3 equipamentos.
+
+ * Osciloscópio (que parece uma pequena TV)
+ * Gerador de Sinais (com garras vermelha e preta)
+ * Multímetro de bancada (com pontas de prova vermelha e pretra)
+
+Monte o circuito abaixo usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k ohms e um protoboard pequeno.
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/oscilas-01.png" width="600">
+
+No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 canais **CH1** e **CH2** no mesmo osciloscópio.
+
 
 ### Responda:
 
 
-Para tensões abaixo de 0,7V, a saída mostra que o diodo não conduz.
-Para tensões acima de 0,7V, o diodo conduz e a saída exibe uma onda recortada, pois o diodo corta a parte negativa da onda.
-Em polarização reversa, a corrente é quase nula.
-Discussão
-Explicar a não-linearidade do diodo.
-Comparar com a curva ideal e analisar o comportamento real.
-Mostrar que a corrente só começa a fluir após atingir a tensão limiar.
-🔹 4. Experimento 3: Retificação com o Diodo Real (15 min)
-Agora, aplicaremos o diodo em um circuito retificador de meia onda para demonstrar como ele converte corrente alternada em corrente contínua.
+(a) Usando o multímetro de bancada, coloque na escala 20V~ (tensão alternada em 20 volts) e confira se você tem 10V~ na saída do gerador de sinais. Ajuste o knob **AMPL** para **MIN** ou **MAX** até encontrar os 10V~.
 
-Montagem do Circuito
-Conectar um resistor de carga de 1 kΩ em paralelo ao diodo.
-Ligar o gerador de sinais com onda senoidal de 5Vpp e 60 Hz como fonte CA.
-Configuração do Osciloscópio:
-Canal 1 → Entrada da CA.
-Canal 2 → Tensão de saída no resistor de carga.
-Análise dos Resultados
-No osciloscópio, a forma de onda na saída será somente a parte positiva da entrada, pois o diodo bloqueia a parte negativa.
-A tensão máxima será reduzida pela queda de tensão do diodo (0,7V).
-Com um capacitor de filtragem (opcional), é possível suavizar a saída para obter um sinal mais próximo de uma tensão CC pura.
+(b) Usando o multímetro de bancada na mesma escala 20V~, meça a tensão sobre o **R**. Quanto você encontrou?
 
+(c) Usando o multímetro de bancada, mas agora na escala 2V~, meça a tensão sobre o **D**. Quanto você encontrou?
+
+(d) Agora, comprove matematicamente os valores que você mediu.
+
+(e) Diminua o valor de AMPL do gerador de sinais para abaixo de 0,7V~ (use o multímetro de bancada para conferir o valor).
+
+(f) Repita as medições de (c) e (d). O que você conclui?
