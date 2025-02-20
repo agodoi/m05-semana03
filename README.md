@@ -245,6 +245,11 @@ Responda:
 
 * (a) A corrente que passa pelo **D** é igual a que passa no **R**?
 * (b) Vamos conferir se a corrente está dentro dos limites especificados no datasheet do Diodo 1N4007. Acesse esse site [ALL DATASHEET](https://www.alldatasheet.com/) e busque o PDF do 1N4007, faça o download, e busque pelo valor **Average Rectified Output Current**. Esse é o valor máximo de Itotal que o D suporta na polarização direta.
+* Um dado importante: o valor da corrente que você está medindo no multímetro não é real. Por que?
+
+* Porque o multímetro só entende sinais senoidais limpos e perfeitos. O sinal que você está medindo é pulsante e não senoidal.
+
+
 # RETIFICADOR DE ONDA COMPLETA
 
 É muito importante vocÊ entender o comportamento das correntes do circuito abaixo para dominar o funcionamento das fontes de qualquer dispositivo eletrônico.
