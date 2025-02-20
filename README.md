@@ -243,8 +243,8 @@ Nessa aula, vamos confirmar na prática, como se mede corrente elétrica de um c
 
 Responda:
 
-(a) A corrente que passa pelo **D** é igual a que passa no **R**?
-(b) Vamos conferir se a corrente está dentro dos limites especificados no datasheet do Diodo 1N4007. Acesse esse site [ALL DATASHEET](https://www.alldatasheet.com/) e busque o PDF do 1N4007, faça o download, e busque pelo valor **Average Rectified Output Current**. Esse é o valor máximo de Itotal que o D suporta na polarização direta.
+* (a) A corrente que passa pelo **D** é igual a que passa no **R**?
+* (b) Vamos conferir se a corrente está dentro dos limites especificados no datasheet do Diodo 1N4007. Acesse esse site [ALL DATASHEET](https://www.alldatasheet.com/) e busque o PDF do 1N4007, faça o download, e busque pelo valor **Average Rectified Output Current**. Esse é o valor máximo de Itotal que o D suporta na polarização direta.
 # RETIFICADOR DE ONDA COMPLETA
 
 É muito importante vocÊ entender o comportamento das correntes do circuito abaixo para dominar o funcionamento das fontes de qualquer dispositivo eletrônico.
