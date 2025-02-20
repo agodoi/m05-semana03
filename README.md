@@ -204,7 +204,7 @@ Os botões mais usados são todos :)
 * (c) O que aconteceu com o sinal sonoro na polarização direta?
 * (d) O que aconteceu com o sinal sonoro na polarização reserva?
 
-## Prática (4) - Teste de Retificação do Diodo
+## Prática (4) - Teste de Retificação do Diodo (Retificador de Meia Onda)
 
 
 Monte o circuito abaixo usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k ohms e um protoboard pequeno.
