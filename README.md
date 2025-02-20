@@ -236,6 +236,13 @@ No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 ca
 
 Nessa aula, vamos confirmar na prática, como se mede corrente elétrica de um circuito.
 
+
+Insira o multímetro em série no seu circuito Diodo e Resistor para medir o Itotal.
+
+<img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/oscilas-02.png" width="600">
+
+
+
 ### LEMBRE-SE QUE ESSA MEDIÇÃO PODE QUEIMAR O MULTÍMETRO SE NÃO FEITO CORRETAMENTE!!! Mas não tenha medo...
 
 
